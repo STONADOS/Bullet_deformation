@@ -25,13 +25,13 @@ function setup() {
   div = createSprite(1000, 450, 20, 900);
   div.shapeColor = ("pink");
 
-  bullet = createSprite(400, 50, 35, 70);
+  bullet = createSprite(400, 50, 35, 65);
   bullet.shapeColor = ("pink"); 
 
-  bullet2 = createSprite(800, 50, 35, 70);
+  bullet2 = createSprite(800, 50, 35, 65);
   bullet2.shapeColor = ("pink"); 
 
-  bullet3 = createSprite(1200, 50, 35, 70);
+  bullet3 = createSprite(1200, 50, 35, 65);
   bullet3.shapeColor = ("pink"); 
 
   wall = createSprite(bullet.x, 650, 300, showingthickness);
