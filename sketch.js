@@ -3,7 +3,7 @@ var div;
 var showingthickness, showingthickness2, showingthickness3;
 var thickness, thickness2, thickness3;
 var bullet, bullet2, bullet3;  
-var speed, speed2, speed3;
+// var speed, speed2, speed3;
 var weight, weight2, weight3;
 var deformation, deformation2, deformation3;
 
